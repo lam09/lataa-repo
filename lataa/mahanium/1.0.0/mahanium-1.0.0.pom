@@ -52,11 +52,11 @@
             <artifactId>mahanium-natives-linux64</artifactId>
             <version>1.0</version>
         </dependency>
-        <dependency>
-            <groupId>net.dzikoysk</groupId>
-            <artifactId>linuxenv</artifactId>
-            <version>1.0.0</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>net.dzikoysk</groupId>-->
+            <!--<artifactId>linuxenv</artifactId>-->
+            <!--<version>1.0.0</version>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>lataa</groupId>
             <artifactId>jnibuilder</artifactId>
