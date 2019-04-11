@@ -1,8 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Apr 09 09:36:34 CEST 2019
-https\://repo.panda-lang.org/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1554795394319
-@default-jnibuilder-https\://rawgit.com/lam09/lataa-repo/master/.lastUpdated=1554795394145
-https\://rawgit.com/lam09/lataa-repo/master/.error=Could not transfer artifact lataa.mahanium-natives\:mahanium-natives-win64\:pom\:67.0 from/to jnibuilder (https\://rawgit.com/lam09/lataa-repo/master)\: Access denied to\: https\://rawgit.com/lam09/lataa-repo/master/lataa/mahanium-natives/mahanium-natives-win64/67.0/mahanium-natives-win64-67.0.pom , ReasonPhrase\:Forbidden.
-https\://repo.panda-lang.org/.lastUpdated=1554795393371
-https\://repo.maven.apache.org/maven2/.error=
