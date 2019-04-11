@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 11 08:30:04 CEST 2019
+mahanium-1.0.0.jar>=
+mahanium-1.0.0.jar>jnibuilder=
+mahanium-1.0.0.pom>=
+mahanium-1.0.0.pom>jnibuilder=

@@ -40,11 +40,11 @@
         </dependency>
 
         <!-- Windows x64 -->
-        <!--<dependency>-->
-            <!--<groupId>lataa.mahanium-natives</groupId>-->
-            <!--<artifactId>mahanium-natives-win64</artifactId>-->
-            <!--<version>1.0</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>lataa.mahanium-natives</groupId>
+            <artifactId>mahanium-natives-win64</artifactId>
+            <version>1.0</version>
+        </dependency>
 
         <!-- Linux x64 -->
         <dependency>
@@ -86,7 +86,7 @@
         </repository>
         <repository>
             <id>jnibuilder</id>
-            <url>https://rawgit.com/lam09/lataa-repo/master</url>
+            <url>https://raw.githubusercontent.com/lam09/lataa-repo/master/</url>
         </repository>
     </repositories>
 
